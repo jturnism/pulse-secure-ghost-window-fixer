@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Pulse Secure\Saml]
+
+"prevmonitorscount"=-
+"samlbottom"=-
+"samlleft"=-
+"samlright"=-
+"samltop"=-
+
+[HKEY_CURRENT_USER\SOFTWARE\Pulse Secure\Pulse]
+
+"MainWindowPlacement"=-
